@@ -23,7 +23,7 @@ Um sistema simples de **controle de estoque de produtos** desenvolvido em Java. 
 
 - **Java 17** (ou superior)
 - Estruturas de dados como **ArrayList** para gerenciamento de produtos
-- Manipulação de arquivos (opcional, para persistência)
+- Manipulação de arquivos (opcional)
 - Conceitos de **POO**: classes, objetos, encapsulamento e métodos
 
 ---
